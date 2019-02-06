@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<!-- debug config -->
+<launch>
+	<copy file="E:\omnetprojects2017\vanetvideostream\veins\examples\veins\simple\sumotest.net.xml" />
+	<copy file="E:\omnetprojects2017\vanetvideostream\veins\examples\veins\simple\sumotest100.rou.xml" />
+	<copy file="E:\omnetprojects2017\vanetvideostream\veins\examples\veins\simple\sumotest100.sumo.cfg" type="config" />
+</launch>
+
